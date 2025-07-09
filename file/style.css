@@ -1,0 +1,28 @@
+body { 
+    font-family: sans-serif; 
+    background: #ddedf1; 
+    text-align: center; margin: 0; }
+.bn, button { 
+    background: blue; 
+    color: rgb(244, 244, 244); 
+    padding: 10px 20px; 
+    border:none; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin: 10px; }
+.form-box { 
+    background: white; 
+    padding: 20px; 
+    width: 250px; 
+    margin: 60px auto; 
+    border: 1px  gray; }
+input { 
+    width: 90%; 
+    padding: 8px; 
+    margin: 10px 0; }
+button { width: 95%; }
+.link { 
+    display: block; 
+    margin-top: 10px; 
+    color: blue; 
+    text-decoration: none; }
